@@ -1,0 +1,21 @@
+.presentation-container{
+  background-color: antiquewhite;
+  color: black;
+  font-family: 'Inder';
+  font-size: 22px;
+  align-items: center;
+  flex-direction: column;
+}
+
+.stack-container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 40px;
+}
+
+.presentation-text{
+  width: 80%;
+  margin: auto;
+  padding: 60px
+}

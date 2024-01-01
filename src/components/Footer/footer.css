@@ -1,0 +1,27 @@
+.footer-container{
+    width: 100%;
+    background-color: #bb5625;
+    height: 10vh;
+}
+
+.link-container{
+    height: 100%;
+    display: flex;
+    gap: 25px;
+    align-items: center;
+    justify-content: center;
+}
+
+.contact-link-container{
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+.contact-link{
+    display: flex;
+    align-items: center;
+    gap: 3px;
+    color: black;
+}
+
