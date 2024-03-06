@@ -4,18 +4,22 @@
   font-family: 'Inder';
   font-size: 22px;
   align-items: center;
-  flex-direction: column;
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+  padding: 100px;
+  gap: 250px;
 }
 
-.stack-container{
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 40px;
+.stack-icons-container{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  margin-top: 40px;
+  grid-gap: 20px;
+  grid-auto-rows: minmax(100px, auto);
 }
 
 .presentation-text{
-  width: 80%;
-  margin: auto;
-  padding: 60px
+  text-align: justify;
+  width: 50%;
 }

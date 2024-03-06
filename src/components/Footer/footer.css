@@ -2,26 +2,32 @@
     width: 100%;
     background-color: #bb5625;
     height: 10vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .link-container{
-    height: 100%;
+    margin-right: 4rem;
     display: flex;
-    gap: 25px;
     align-items: center;
-    justify-content: center;
+    gap: 15px;
 }
 
 .contact-link-container{
     display: flex;
     flex-direction: column;
-    gap: 2px;
+    gap: 5px;
 }
 
 .contact-link{
+    color: black;
     display: flex;
     align-items: center;
-    gap: 3px;
-    color: black;
 }
+
+.copyright{
+    margin-left: 2rem;
+}
+
 

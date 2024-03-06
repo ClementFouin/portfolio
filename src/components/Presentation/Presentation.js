@@ -3,6 +3,15 @@ import anime from 'animejs/lib/anime.es.js';
 import "./presentation.css";
 
 import React, { useState, useEffect, useRef  } from 'react';
+import JavascriptSVG from "../../assets/stack/javascript.svg";
+import AngularSVG from "../../assets/stack/angular.svg";
+import ReactSVG from "../../assets/stack/react.svg";
+import CssSVG from "../../assets/stack/css.svg";
+import HtmlSVG from "../../assets/stack/html.svg";
+import PythonSVG from "../../assets/stack/python.svg";
+import NodejsSVG from "../../assets/stack/nodejs.svg";
+import tailwindSVG from "../../assets/stack/tailwind.svg";
+
 
 export default function Presentation() {
   
@@ -16,17 +25,20 @@ export default function Presentation() {
           base de données et opérationnelles 24h/24h dans le domaine de la santé et de la gestion de plans d'actions.
           Si vous êtes interressé n'hésitez pas à me contacter.
         </p>
-        <div className='stack-container'>
-          <label>stack</label>
-          <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
-          <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
-          <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
-          <img width="48" height="48" src="https://img.icons8.com/office/48/react.png" alt="react"/>
-          <img width="48" height="48" src="https://img.icons8.com/color/48/angularjs.png" alt="angularjs"/>
-          <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
-          <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
-          <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
-        </div>        
+  <div className='stack-container'>
+      <h2>Stack</h2>
+      <div className='stack-icons-container'>
+          <img src={JavascriptSVG} height={50} alt="Javascript icon"/>
+          <img src={AngularSVG} height={50} alt="Javascript icon"/>
+          <img src={ReactSVG} height={50} alt="Javascript icon"/>
+          <img src={CssSVG} height={50} alt="Javascript icon"/>
+          <img src={HtmlSVG} height={50} alt="Javascript icon"/>
+          <img src={PythonSVG} height={50} alt="Javascript icon"/>
+          <img src={NodejsSVG} height={50} alt="Javascript icon"/>
+          <img src={tailwindSVG} height={50} alt="Javascript icon"/>
+      </div>
+  </div>
+
       </div>
       
     );
