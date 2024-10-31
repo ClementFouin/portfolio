@@ -1,7 +1,9 @@
+import ProjectItemsMain from "./ProjectItemsMain";
+import "./projects.css";
 export default function Projects() {
     return (
-      <div>
-        <h2>Mes projets</h2>        
+      <div className={"project-component"}>
+        <ProjectItemsMain />
       </div>
     );
   }

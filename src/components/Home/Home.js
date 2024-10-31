@@ -66,7 +66,7 @@ export default function Home() {
                     <h2 className={"subtitle"} ref={textContainerRef}> </h2>
                 </div>
 
-                <a href="/assets/CV_Fouin_Clément.pdf" className="btn-cv-container"  download="CV_Clément_Fouin"><p className="btn-cv">{t('DOWNLOAD RESUME')}<img src={ArrowSVG} className={"image"} height={45} alt="donwload icon"/></p></a>
+                <a href="/assets/CV_Fouin_Clément.pdf" className="btn-cv-container" target={"_blank"} rel={"noreferrer"}><p className="btn-cv">{t('DOWNLOAD RESUME')}<img src={ArrowSVG} className={"image"} height={45} alt="donwload icon"/></p></a>
 
             </div>
             <img

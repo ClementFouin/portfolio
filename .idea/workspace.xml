@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ae183930-01d3-4c02-b251-f8eb7dc02b70" name="Changes" comment="footer">
+      <change afterPath="$PROJECT_DIR$/public/assets/projects/test.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Projects/ProjectItemsMain.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Projects/projects.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/arrow-right.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/arrow-right.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Home/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Home/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Presentation/Presentation.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Presentation/Presentation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Projects/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Projects/Projects.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2VTenjN00bqDIMyvNZr9v1W5CDc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/cleme.DESKTOP-0TPB1Q1/OneDrive/Documents/GitHub/spotify-charts&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.github.copilot.settings.ApplicationConfigurable&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2023.2.2\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\cleme.DESKTOP-0TPB1Q1\OneDrive\Documents\GitHub\portfolio\public\assets" />
+      <recent name="C:\Users\cleme.DESKTOP-0TPB1Q1\OneDrive\Documents\GitHub\portfolio\src\assets\projects" />
+      <recent name="C:\Users\cleme.DESKTOP-0TPB1Q1\OneDrive\Documents\GitHub\portfolio\src\assets\stack" />
+      <recent name="C:\Users\cleme.DESKTOP-0TPB1Q1\OneDrive\Documents\GitHub\porfolio\src\assets\footer" />
+      <recent name="C:\Users\cleme.DESKTOP-0TPB1Q1\OneDrive\Documents\GitHub\porfolio\src\assets" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae183930-01d3-4c02-b251-f8eb7dc02b70" name="Changes" comment="" />
+      <created>1694864667836</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694864667836</updated>
+      <workItem from="1694864668897" duration="188000" />
+      <workItem from="1694864873855" duration="806000" />
+      <workItem from="1694866091053" duration="379000" />
+      <workItem from="1694866489320" duration="16006000" />
+      <workItem from="1694939077431" duration="3542000" />
+      <workItem from="1695422395456" duration="503000" />
+      <workItem from="1703274436513" duration="15192000" />
+      <workItem from="1703325204783" duration="9444000" />
+      <workItem from="1703795268922" duration="1169000" />
+      <workItem from="1704143062604" duration="2656000" />
+      <workItem from="1704146693808" duration="1557000" />
+      <workItem from="1704539296321" duration="3059000" />
+      <workItem from="1704543214205" duration="1557000" />
+      <workItem from="1704545030906" duration="11108000" />
+      <workItem from="1704621466542" duration="5070000" />
+      <workItem from="1709731709532" duration="7989000" />
+      <workItem from="1716536214691" duration="568000" />
+      <workItem from="1716634974488" duration="1457000" />
+      <workItem from="1717068245951" duration="466000" />
+      <workItem from="1717101158382" duration="2592000" />
+      <workItem from="1717237448967" duration="8660000" />
+      <workItem from="1717366220971" duration="2952000" />
+      <workItem from="1717438368215" duration="1905000" />
+      <workItem from="1717669261831" duration="579000" />
+      <workItem from="1717693580119" duration="1151000" />
+    </task>
+    <task id="LOCAL-00001" summary="/">
+      <option name="closed" value="true" />
+      <created>1703338200056</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703338200056</updated>
+    </task>
+    <task id="LOCAL-00002" summary="pagination style">
+      <option name="closed" value="true" />
+      <created>1703339671230</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703339671230</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first">
+      <option name="closed" value="true" />
+      <created>1704147389815</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1704147389815</updated>
+    </task>
+    <task id="LOCAL-00004" summary="footer">
+      <option name="closed" value="true" />
+      <created>1709735737869</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709735737869</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="/" />
+    <MESSAGE value="pagination style" />
+    <MESSAGE value="first" />
+    <MESSAGE value="footer" />
+    <option name="LAST_COMMIT_MESSAGE" value="footer" />
+  </component>
+</project>

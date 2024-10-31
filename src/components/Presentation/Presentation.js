@@ -29,13 +29,13 @@ export default function Presentation() {
       <h2>Stack</h2>
       <div className='stack-icons-container'>
           <img src={JavascriptSVG} height={50} alt="Javascript icon"/>
-          <img src={AngularSVG} height={50} alt="Javascript icon"/>
-          <img src={ReactSVG} height={50} alt="Javascript icon"/>
-          <img src={CssSVG} height={50} alt="Javascript icon"/>
-          <img src={HtmlSVG} height={50} alt="Javascript icon"/>
-          <img src={PythonSVG} height={50} alt="Javascript icon"/>
-          <img src={NodejsSVG} height={50} alt="Javascript icon"/>
-          <img src={tailwindSVG} height={50} alt="Javascript icon"/>
+          <img src={AngularSVG} height={50} alt="Angular icon"/>
+          <img src={ReactSVG} height={50} alt="React icon"/>
+          <img src={CssSVG} height={50} alt="Css icon"/>
+          <img src={HtmlSVG} height={50} alt="Html icon"/>
+          <img src={PythonSVG} height={50} alt="Python icon"/>
+          <img src={NodejsSVG} height={50} alt="NodeJS icon"/>
+          <img src={tailwindSVG} height={50} alt="Tailwind icon"/>
       </div>
   </div>
 
